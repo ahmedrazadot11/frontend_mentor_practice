@@ -20,25 +20,28 @@ body{
 	align-items: center;
 	font-size: 15px;
 }
-.qr_container{
+div{
 	width: 320px;
 	height: 500px;
 	background-color: white;
 	border-radius: 19px;
 }
-.qr-code-image{
+img{
 	border-radius: 10px;
 	width: 288px;
 	margin-left: 16px;
 	margin-top: 16px;
 }
-.title{
+h1{
 	color: hsl(218, 44%, 22%);
 	font-family: outfit-700;
 	font-size: 20px;
-	text-align: center;
 	margin-top: 40px;
+	text-align: center;
 }
-.desc{
+p{
+	text-align: center;
+	font-family: outfit-400;
 	color: hsl(220, 15%, 55%);
+	font-size: 15px;
 }
